@@ -1,0 +1,67 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
+
+html{
+      background: url(background.jpg) no-repeat center fixed; 
+      background-size: cover;
+}
+
+ #paragraph1{
+    position: absolute;                
+    height: 110px;
+    left: 42px;
+    top: 153px;
+    font-family: Roboto Condensed;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 72px;
+    text-align: center;
+    color: #8F8585;
+}
+
+#paragraph2{
+    position: absolute;               
+    height: 60px;
+    left: 42px;
+    top: 232px;
+    font-family: Roboto Condensed;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 72px;
+    text-align: center;
+    color: #140E0E;
+} 
+
+
+#time_section{
+    position: absolute;
+    height: 60px;
+    left: 42px;
+    top: 422px;
+}
+
+.button_container{
+    display: inline; 
+    margin: 20px;
+    }
+
+    
+.button{                
+background: #2659A6;  
+border-radius: 15px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+vertical-align: middle;
+font-size: 72px;
+padding: 20px;
+color: #FFFFFF;
+text-align:center;
+text-decoration: none;
+display: inline; 
+}
+
+
